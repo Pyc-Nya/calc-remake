@@ -1,0 +1,19 @@
+.td {
+  border: 1px solid #000;
+}
+
+.table-container {
+  display: flex;
+}
+
+.user-function__input {
+  border: 1px solid #000;
+}
+
+* {
+  font-size: 1.05em;
+}
+
+input {
+  width: pxToEm(200px);
+}
